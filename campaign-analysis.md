@@ -89,3 +89,23 @@ Insight
 CTR measures the percentage of impressions that resulted in link clicks. A higher CTR may indicate that the content or call to action encourages more people to click.
 
 Note: These figures are simulated for learning purposes, not actual campaign results.
+Practice: Comparing Content Performance
+
+Simulated Data
+
+Metric	Video A	Video B
+Views	1,000	800
+Likes	40	64
+Like Rate	4%	8%
+
+Analysis
+
+Video B has a higher like rate despite receiving fewer views.
+
+Recommendation
+
+Investigate what made Video B more engaging. Test its hook or content approach in a future video and compare the results.
+
+Data Status
+
+These figures are simulated for learning purposes and are not actual campaign results.
