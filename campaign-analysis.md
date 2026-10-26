@@ -69,3 +69,23 @@ Insight
 This simulated result helps demonstrate how engagement can be measured relative to views. Actual campaign data is needed to evaluate real content performance.
 
 Note: These figures are simulated for learning purposes, not actual campaign results.
+Practice: Click-Through Rate (CTR)
+
+Simulated Data
+
+* Impressions: 1,000
+* Link Clicks: 40
+
+Calculation
+
+CTR = Link Clicks / Impressions × 100%
+
+CTR = 40 / 1,000 × 100%
+
+Result: 4%
+
+Insight
+
+CTR measures the percentage of impressions that resulted in link clicks. A higher CTR may indicate that the content or call to action encourages more people to click.
+
+Note: These figures are simulated for learning purposes, not actual campaign results.
