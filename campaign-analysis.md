@@ -109,3 +109,34 @@ Investigate what made Video B more engaging. Test its hook or content approach i
 Data Status
 
 These figures are simulated for learning purposes and are not actual campaign results.
+A/B Testing Plan: TikTok Hook
+
+Objective
+
+Test which opening hook attracts more attention from students aged 18–24.
+
+Version A
+
+“Nongkrong di kafe nggak harus mahal.”
+
+Version B
+
+“Cuma punya 15 ribu, masih bisa ngopi di kafe?”
+
+Hypothesis
+
+Version B may attract more attention because it mentions a specific budget and creates curiosity.
+
+Measurement
+
+* Primary metric: Views
+* Supporting metric: Average watch time, if available
+* Comparison: Evaluate both videos after the same measurement period.
+
+Testing Conditions
+
+Keep the video footage, duration, offer, and call to action as similar as possible. Change the opening hook to make the comparison more meaningful.
+
+Data Status
+
+This is a proposed experiment. No actual test results have been collected yet.
