@@ -30,3 +30,20 @@ After publishing, compare actual views with the target. Use the results to decid
 Limitations
 
 Competitor prices need to be verified before making business decisions. The campaign hypothesis has not yet been tested, and no actual performance results are available.
+Practice: KPI Analysis
+
+Simulated Results
+
+* Target: 1,000 views in 7 days
+* Actual views: 750
+* Target achievement: 75%
+
+Proposed Improvement
+
+Test a stronger hook in the first 3 seconds of the next video to capture viewers’ attention.
+
+Reasoning
+
+The next video will test whether a stronger opening can improve views. Results must be compared with actual performance data before drawing conclusions.
+
+Note: These are simulated results for learning purposes, not actual campaign data.
