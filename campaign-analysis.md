@@ -47,3 +47,25 @@ Reasoning
 The next video will test whether a stronger opening can improve views. Results must be compared with actual performance data before drawing conclusions.
 
 Note: These are simulated results for learning purposes, not actual campaign data.
+Practice: Engagement Rate
+
+Simulated Data
+
+* Views: 750
+* Likes: 45
+* Comments: 5
+* Total interactions: 50
+
+Calculation
+
+Engagement Rate = (Likes + Comments) / Views × 100%
+
+Engagement Rate = (45 + 5) / 750 × 100%
+
+Result: 6.67%
+
+Insight
+
+This simulated result helps demonstrate how engagement can be measured relative to views. Actual campaign data is needed to evaluate real content performance.
+
+Note: These figures are simulated for learning purposes, not actual campaign results.
