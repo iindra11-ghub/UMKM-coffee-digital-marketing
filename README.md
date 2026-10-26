@@ -43,3 +43,23 @@ Compare actual views with the target after 7 days. Review the opening hook and v
 
 ### Data Status
 The 1,000-view target is a planning goal, not an actual result. Performance data will be added after the video is published.
+Skills Demonstrated
+
+Through this project, I practiced:
+
+* Competitor price research
+* Target audience identification
+* Promotional content planning
+* KPI selection and measurement
+* Engagement rate and CTR calculations
+* Content performance comparison
+* A/B testing hypothesis development
+* Data-driven marketing recommendations
+
+Project Status
+
+This is a learning portfolio project for a hypothetical coffee shop campaign. Research findings, campaign targets, and simulated exercises are documented separately from actual campaign results.
+
+Learning Objective
+
+To develop practical digital marketing skills through research, content strategy, measurement, and campaign analysis.
