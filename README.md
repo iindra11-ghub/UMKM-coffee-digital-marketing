@@ -18,6 +18,14 @@ The goal is to understand how a small business can use digital platforms to reac
 - Competitor analysis
 - Marketing performance measurement
 
+## Project Documentation
+
+- [Competitor Research](competitor-research.md)
+- [Content Calendar](content-calendar.md)
+- [Campaign Analysis](campaign-analysis.md)
+- [Performance Tracker](performance-tracker.md)
+
+
 ## Project Status
 Currently in progress. This project is part of my learning journey in Digital Business and Digital Marketing.
 
