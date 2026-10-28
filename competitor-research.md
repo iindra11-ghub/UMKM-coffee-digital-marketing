@@ -36,12 +36,6 @@ This price may appeal to budget-conscious students. However, the proposed price 
 Note: The proposed price is a planning assumption, not a confirmed offer.
 
 
-## Initial Marketing Insight
-
-A proposed Americano price of Rp15,000 would be lower than all three recorded competitor prices.
-
-This could be an attractive price point for students, but customer demand and business profitability have not been tested.
-
 ## Limitations
 
 - Prices must be verified before making business decisions.
