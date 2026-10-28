@@ -63,3 +63,15 @@ This is a learning portfolio project for a hypothetical coffee shop campaign. Re
 Learning Objective
 
 To develop practical digital marketing skills through research, content strategy, measurement, and campaign analysis.
+
+## Target Audience
+
+- **Age:** 18–24 years old
+- **Main audience:** University students and young adults
+- **Interests:** Affordable coffee, casual hangouts, and social media trends
+- **Potential need:** Finding a comfortable place to hang out without spending too much
+- **Content platform:** TikTok, using relatable and entertaining short-form videos
+
+### Audience Insight
+
+Students may be interested in affordable coffee promotions, but their actual preferences need to be validated through audience research and campaign performance data.
