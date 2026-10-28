@@ -7,11 +7,11 @@ To compare Americano prices at selected coffee shops and understand the potentia
 
 ## Competitor Price Comparison
 
-| Coffee Shop     | Americano Price |
-|-----------------------------------|
-| Lobby           | Rp25,000        |
-| House of Malaga | Rp18,000        |
-| Kolam           | Rp19,000        |
+| Coffee Shop | Americano Price |
+|---|---:|
+| Lobby | Rp25,000 |
+| House of Malaga | Rp18,000 |
+| Kolam | Rp19,000 |
 
 Note: These prices were collected during preliminary research and have not yet been independently verified.
 
