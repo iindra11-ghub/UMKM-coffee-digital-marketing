@@ -70,7 +70,7 @@ Through this project, I practiced:
 
 This is a learning portfolio project for a hypothetical coffee shop campaign. Research findings, campaign targets, and simulated exercises are documented separately from actual campaign results.
 
-Learning Objective
+## Learning Objective
 
 To develop practical digital marketing skills through research, content strategy, measurement, and campaign analysis.
 
