@@ -52,7 +52,8 @@ Compare actual views with the target after 7 days. Review the opening hook and v
 
 ### Data Status
 The 1,000-view target is a planning goal, not an actual result. Performance data will be added after the video is published.
-Skills Demonstrated
+
+## Skills Demonstrated
 
 Through this project, I practiced:
 
