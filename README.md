@@ -66,7 +66,7 @@ Through this project, I practiced:
 * A/B testing hypothesis development
 * Data-driven marketing recommendations
 
-Project Status
+## Project Status
 
 This is a learning portfolio project for a hypothetical coffee shop campaign. Research findings, campaign targets, and simulated exercises are documented separately from actual campaign results.
 
