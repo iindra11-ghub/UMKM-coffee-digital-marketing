@@ -43,6 +43,19 @@ Note: The proposed price is a planning assumption, not a confirmed offer.
 - Product sizes, ingredients, and promotions may differ between competitors.
 - No customer survey has been conducted.
 
+## Marketing Recommendation
+
+Based on the preliminary price comparison, a proposed Americano price of Rp15,000 could be tested as a budget-friendly positioning strategy for students.
+
+Before implementing this strategy, the business should:
+
+- Verify competitor prices and serving sizes.
+- Calculate product costs and profit margins.
+- Test student interest through a small content campaign.
+- Evaluate actual campaign performance before making further decisions.
+
+This recommendation is a hypothesis based on preliminary research, not a proven marketing strategy.
+
 ## Next Steps
 
 - Verify competitor prices and serving sizes.
