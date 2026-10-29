@@ -83,3 +83,17 @@ To develop practical digital marketing skills through research, content strategy
 ### Audience Insight
 
 Students may be interested in affordable coffee promotions, but their actual preferences need to be validated through audience research and campaign performance data.
+
+## Key Learning
+
+Through this project, I learned how to:
+
+- Conduct preliminary competitor price research.
+- Identify a target audience based on customer characteristics.
+- Develop a TikTok content calendar.
+- Set marketing KPIs and performance targets.
+- Calculate engagement rate and click-through rate (CTR).
+- Analyze campaign performance and propose improvements.
+- Plan A/B testing to compare different content hooks.
+
+**Note:** This is a learning portfolio project. Some exercises use simulated data, and no actual campaign results are claimed.
