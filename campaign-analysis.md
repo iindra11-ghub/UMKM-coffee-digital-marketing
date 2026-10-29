@@ -1,4 +1,4 @@
-Digital Marketing Campaign Analysis
+# Digital Marketing Campaign Analysis
 
 Campaign Overview
 
@@ -41,6 +41,16 @@ Simulated Results
 Proposed Improvement
 
 Test a stronger hook in the first 3 seconds of the next video to capture viewers’ attention.
+
+### KPI Interpretation
+
+The simulated result reached 75% of the target, leaving a gap of 250 views.
+
+This means the target was not achieved in the simulated scenario. A possible next step is to test a different opening hook and compare the results.
+
+Views alone cannot explain why the target was missed. Additional data, such as average watch time and audience retention, would help evaluate content performance.
+
+**Note:** This is a simulated analysis, not an actual campaign result.
 
 Reasoning
 
