@@ -5,7 +5,7 @@ Campaign: Affordable Americano
 Day	Content Idea	Hook	Objective
 Day 1	POV relaxing at a coffee shop	POV: Orang lain sibuk kerja, lu menikmati kopi	Increase awareness
 Day 3	Americano price comparison	Kopi enak nggak harus mahal	Highlight affordability
-Day 5	Nongkrong bareng teman, tetap bisa hemat!
+| Day 5 | Coffee with friends | Nongkrong bareng teman, tetap bisa hemat! | Encourage engagement |
 
 Publishing Plan
 
