@@ -93,10 +93,11 @@ Practice: Comparing Content Performance
 
 Simulated Data
 
-Metric	Video A	Video B
-Views	1,000	800
-Likes	40	64
-Like Rate	4%	8%
+| Metric | Video A | Video B |
+|---|---:|---:|
+| Views | 1,000 | 800 |
+| Likes | 40 | 64 |
+| Like Rate | 4% | 8% |
 
 Analysis
 
