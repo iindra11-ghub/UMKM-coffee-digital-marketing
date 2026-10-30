@@ -99,3 +99,16 @@ Through this project, I learned how to:
 - Plan A/B testing to compare different content hooks.
 
 **Note:** This is a learning portfolio project. Some exercises use simulated data, and no actual campaign results are claimed.
+
+## Spreadsheet Analysis
+
+This project includes a Google Sheets / Excel analysis to compare competitor prices.
+
+The spreadsheet contains:
+- Competitor price comparison
+- Average, highest, and lowest prices
+- Proposed pricing strategy
+- Price difference analysis
+- Data limitations and recommendations
+
+File: coffee-shop-competitor-analysis.xlsx
