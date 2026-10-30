@@ -167,3 +167,25 @@ The analysis and performance examples are simulated for learning purposes. Actua
 - Content performance analysis
 - A/B testing planning
 - Data-driven recommendations
+
+## A/B Testing Plan
+
+### Objective
+Compare two TikTok video hooks to identify which one attracts more attention from student audiences.
+
+### Version A
+"Nongkrong di kafe nggak harus mahal."
+
+### Version B
+"Cuma punya 15 ribu, masih bisa ngopi di kafe?"
+
+### Hypothesis
+Version B may attract more attention because it uses a specific budget and creates curiosity.
+
+### Measurement
+- Primary metric: Average watch time.
+- Supporting metric: Video views.
+- Keep video duration, footage, offer, and CTA consistent.
+
+### Note
+This is a proposed experiment. No actual A/B testing results have been collected.
