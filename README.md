@@ -126,3 +126,13 @@ The main objective is to understand how pricing strategy, competitor research, a
 - Proposed Americano price: Rp15,000.
 - Marketing channel: TikTok.
 - Main campaign objective: Increase brand awareness.
+
+## Skills Demonstrated
+
+- Competitor Research
+- Market Analysis
+- Pricing Strategy
+- Content Marketing Planning
+- Digital Marketing Strategy
+- Performance Measurement
+- Spreadsheet Analysis
