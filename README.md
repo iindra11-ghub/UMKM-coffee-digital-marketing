@@ -112,3 +112,17 @@ The spreadsheet contains:
 - Data limitations and recommendations
 
 File: [Download Spreadsheet Analisis Kompetitor](coffee-shop-competitor-analysis.xlsx)
+
+## Project Overview
+
+This project is a digital marketing learning portfolio focused on a local coffee shop business.
+
+The main objective is to understand how pricing strategy, competitor research, and content marketing can be used to attract student customers.
+
+### Key Insights
+
+- Target audience: Students aged 18–24.
+- Main customer consideration: Affordable coffee prices.
+- Proposed Americano price: Rp15,000.
+- Marketing channel: TikTok.
+- Main campaign objective: Increase brand awareness.
