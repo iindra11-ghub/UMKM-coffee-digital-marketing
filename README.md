@@ -111,4 +111,4 @@ The spreadsheet contains:
 - Price difference analysis
 - Data limitations and recommendations
 
-File: coffee-shop-competitor-analysis.xlsx
+File: [Download Spreadsheet Analisis Kompetitor](coffee-shop-competitor-analysis.xlsx)
