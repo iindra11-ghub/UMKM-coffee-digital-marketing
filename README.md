@@ -119,6 +119,14 @@ This project is a digital marketing learning portfolio focused on a local coffee
 
 The main objective is to understand how pricing strategy, competitor research, and content marketing can be used to attract student customers.
 
+## Project Objectives
+
+1. Identify the target market for a local coffee shop.
+2. Analyze competitor pricing and market positioning.
+3. Develop a content marketing strategy for TikTok.
+4. Create a performance measurement plan.
+5. Evaluate pricing opportunities to attract student customers.
+
 ### Key Insights
 
 - Target audience: Students aged 18–24.
