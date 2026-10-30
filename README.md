@@ -136,3 +136,10 @@ The main objective is to understand how pricing strategy, competitor research, a
 - Digital Marketing Strategy
 - Performance Measurement
 - Spreadsheet Analysis
+
+## Project Limitations
+
+- Competitor prices are preliminary and have not been independently verified.
+- The proposed Rp15,000 selling price is a simulation, not an actual selling price.
+- Campaign performance figures are simulated for learning purposes.
+- The strategy requires real market testing before implementation.
