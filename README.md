@@ -1,181 +1,148 @@
 # UMKM Coffee Shop — Digital Marketing Project
 
-## About This Project
-This project is a learning portfolio focused on digital marketing for a local coffee shop.
+## 1. About This Project
 
-The goal is to understand how a small business can use digital platforms to reach more customers and build brand awareness.
+This project is a digital marketing learning portfolio focused on a hypothetical local coffee shop.
 
-## Project Objectives
-- Understand the target audience
-- Research competitors
-- Develop a content marketing strategy
-- Learn how to measure digital marketing performance
+The goal is to understand how a small business can use digital marketing strategies to attract customers, build brand awareness, and measure campaign performance.
 
-## Skills I Am Learning
-- Digital marketing strategy
-- Market research
-- Social media content planning
-- Competitor analysis
-- Marketing performance measurement
+This project is part of my learning journey in Digital Business and Digital Marketing.
 
-## Project Documentation
+## 2. Project Objectives
 
-- [Competitor Research](competitor-research.md)
-- [Content Calendar](content-calendar.md)
-- [Campaign Analysis](campaign-analysis.md)
-- [Performance Tracker](performance-tracker.md)
+- Identify the target audience.
+- Research competitors and their pricing.
+- Develop a TikTok content marketing strategy.
+- Understand customer behavior and journey.
+- Learn how to measure digital marketing performance.
+- Analyze campaign results and recommend improvements.
 
+## 3. Target Audience
 
-## Project Status
-Currently in progress. This project is part of my learning journey in Digital Business and Digital Marketing.
-
-## Disclaimer
-This is a learning project. Research findings and marketing recommendations will be added as the project develops.
-
-## Content Performance Measurement
-
-### Campaign
-Americano promotional video targeting students aged 18–24.
-
-### Primary KPI
-Views
-
-### Measurement Schedule
-- Record views 24 hours after publishing.
-- Record views 7 days after publishing.
-
-### Initial Performance Target
-Reach 1,000 views within 7 days.
-
-### Evaluation Plan
-Compare actual views with the target after 7 days. Review the opening hook and video structure to identify opportunities for improvement.
-
-### Data Status
-The 1,000-view target is a planning goal, not an actual result. Performance data will be added after the video is published.
-
-## Skills Demonstrated
-
-Through this project, I practiced:
-
-* Competitor price research
-* Target audience identification
-* Promotional content planning
-* KPI selection and measurement
-* Engagement rate and CTR calculations
-* Content performance comparison
-* A/B testing hypothesis development
-* Data-driven marketing recommendations
-
-## Project Status
-
-This is a learning portfolio project for a hypothetical coffee shop campaign. Research findings, campaign targets, and simulated exercises are documented separately from actual campaign results.
-
-## Learning Objective
-
-To develop practical digital marketing skills through research, content strategy, measurement, and campaign analysis.
-
-## Target Audience
-
-- **Age:** 18–24 years old
-- **Main audience:** University students and young adults
-- **Interests:** Affordable coffee, casual hangouts, and social media trends
-- **Potential need:** Finding a comfortable place to hang out without spending too much
-- **Content platform:** TikTok, using relatable and entertaining short-form videos
+- **Age:** 18–24 years old.
+- **Main Audience:** University students and young adults.
+- **Interests:** Affordable coffee, casual hangouts, and social media trends.
+- **Potential Needs:** Finding a comfortable place to hang out without spending too much.
+- **Main Content Platform:** TikTok.
 
 ### Audience Insight
 
-Students may be interested in affordable coffee promotions, but their actual preferences need to be validated through audience research and campaign performance data.
+Students may be interested in affordable coffee promotions and comfortable places to hang out.
 
-## Key Learning
+However, actual customer preferences need to be validated through audience research and campaign performance data.
 
-Through this project, I learned how to:
+## 4. Key Marketing Strategy
 
-- Conduct preliminary competitor price research.
-- Identify a target audience based on customer characteristics.
-- Develop a TikTok content calendar.
-- Set marketing KPIs and performance targets.
-- Calculate engagement rate and click-through rate (CTR).
-- Analyze campaign performance and propose improvements.
-- Plan A/B testing to compare different content hooks.
+- **Product:** Americano.
+- **Proposed Price:** Rp15,000.
+- **Marketing Platform:** TikTok.
+- **Campaign Objective:** Increase brand awareness and attract student interest.
+- **Content Approach:** Relatable, entertaining, and informative short-form videos.
 
-**Note:** This is a learning portfolio project. Some exercises use simulated data, and no actual campaign results are claimed.
+The proposed price is a learning simulation and has not been validated through actual market testing.
 
-## Spreadsheet Analysis
+## 5. Project Documentation
 
-This project includes a Google Sheets / Excel analysis to compare competitor prices.
+This repository contains the following project documents:
+
+1. [Competitor Research](competitor-research.md)  
+   Competitor analysis and price comparison.
+
+2. [Content Calendar](content-calendar.md)  
+   TikTok content planning and ideas.
+
+3. [Campaign Analysis](campaign-analysis.md)  
+   Campaign strategy, KPI analysis, and A/B testing.
+
+4. [Performance Tracker](performance-tracker.md)  
+   Digital marketing performance measurement.
+
+5. [Customer Journey](customer-journey.md)  
+   Customer journey from awareness to retention.
+
+6. [Marketing Funnel Analysis](marketing-funnel-analysis.md)  
+   Conversion rate and marketing funnel analysis.
+
+7. [Customer Feedback Analysis](customer-feedback-analysis.md)  
+   Customer satisfaction measurement and feedback analysis.
+
+8. [Competitor Analysis Spreadsheet](coffee-shop-competitor-analysis.xlsx)  
+   Spreadsheet containing competitor price research.
+
+## 6. Content Performance Measurement
+
+### Campaign
+
+Americano promotional video targeting students aged 18–24.
+
+### Primary KPI
+
+Video Views.
+
+### Initial Performance Target
+
+Reach 1,000 views within 7 days of publishing.
+
+### Measurement Schedule
+
+- Record views 24 hours after publishing.
+- Record views 7 days after publishing.
+
+### Evaluation Plan
+
+Compare actual views with the target after 7 days.
+
+Review the opening hook, video structure, and audience retention to identify opportunities for improvement.
+
+### Data Status
+
+The 1,000-view target is a planning goal, not an actual campaign result.
+
+## 7. Spreadsheet Analysis
+
+This project includes an Excel spreadsheet for competitor price research.
 
 The spreadsheet contains:
-- Competitor price comparison
-- Average, highest, and lowest prices
-- Proposed pricing strategy
-- Price difference analysis
-- Data limitations and recommendations
 
-File: [Download Spreadsheet Analisis Kompetitor](coffee-shop-competitor-analysis.xlsx)
+- Competitor price comparison.
+- Average, highest, and lowest prices.
+- Proposed pricing strategy.
+- Price difference analysis.
+- Data limitations and recommendations.
 
-## Project Overview
+[Download Competitor Analysis Spreadsheet](coffee-shop-competitor-analysis.xlsx)
 
-This project is a digital marketing learning portfolio focused on a local coffee shop business.
+## 8. Skills Demonstrated
 
-The main objective is to understand how pricing strategy, competitor research, and content marketing can be used to attract student customers.
+Through this project, I practiced:
 
-## Project Documentation
+- Competitor Price Research.
+- Target Audience Identification.
+- Market Analysis.
+- Pricing Strategy.
+- TikTok Content Planning.
+- Digital Marketing Strategy.
+- KPI Selection and Measurement.
+- Engagement Rate and CTR Calculations.
+- Conversion Rate Analysis.
+- Customer Journey Analysis.
+- Customer Satisfaction Measurement.
+- A/B Testing Planning.
+- Data-Driven Marketing Recommendations.
+- Spreadsheet Analysis.
 
-This repository contains the following digital marketing project documents:
-
-1. [Competitor Research](competitor-research.md)
-   - Competitor analysis and price comparison.
-
-2. [Content Calendar](content-calendar.md)
-   - TikTok content planning and ideas.
-
-3. [Campaign Analysis](campaign-analysis.md)
-   - Campaign strategy, KPI analysis, and A/B testing.
-
-4. [Performance Tracker](performance-tracker.md)
-   - Digital marketing performance measurement.
-
-5. [Customer Journey](customer-journey.md)
-   - Customer journey from awareness to retention.
-
-6. [Marketing Funnel Analysis](marketing-funnel-analysis.md)
-   - Conversion rate and marketing funnel analysis.
-
-7. [Customer Feedback Analysis](customer-feedback-analysis.md)
-   - Customer satisfaction measurement and feedback analysis.
-
-8. [Competitor Analysis Spreadsheet](coffee-shop-competitor-analysis.xlsx)
-   - Spreadsheet containing competitor price research.
-
-## Project Objectives
-
-1. Identify the target market for a local coffee shop.
-2. Analyze competitor pricing and market positioning.
-3. Develop a content marketing strategy for TikTok.
-4. Create a performance measurement plan.
-5. Evaluate pricing opportunities to attract student customers.
-
-### Key Insights
-
-- Target audience: Students aged 18–24.
-- Main customer consideration: Affordable coffee prices.
-- Proposed Americano price: Rp15,000.
-- Marketing channel: TikTok.
-- Main campaign objective: Increase brand awareness.
-
-## Skills Demonstrated
-
-- Competitor Research
-- Market Analysis
-- Pricing Strategy
-- Content Marketing Planning
-- Digital Marketing Strategy
-- Performance Measurement
-- Spreadsheet Analysis
-
-## Project Limitations
+## 9. Project Limitations
 
 - Competitor prices are preliminary and have not been independently verified.
 - The proposed Rp15,000 selling price is a simulation, not an actual selling price.
 - Campaign performance figures are simulated for learning purposes.
-- The strategy requires real market testing before implementation.
+- Customer feedback and satisfaction figures are simulated.
+- The marketing strategies require real market testing before implementation.
+
+## 10. Project Status
+
+**Currently in Progress.**
+
+This project is a learning portfolio for developing practical digital marketing skills through research, content strategy, performance measurement, and campaign analysis.
+
+**Note:** This repository separates simulated exercises and proposed strategies from actual campaign results. No simulated data is presented as real business performance.
