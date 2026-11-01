@@ -119,6 +119,28 @@ This project is a digital marketing learning portfolio focused on a local coffee
 
 The main objective is to understand how pricing strategy, competitor research, and content marketing can be used to attract student customers.
 
+## Project Documentation
+
+This repository contains several documents related to the digital marketing project:
+
+1. [Competitor Research](competitor-research.md)
+   - Competitor analysis and price comparison.
+
+2. [Content Calendar](content-calendar.md)
+   - TikTok content planning and ideas.
+
+3. [Campaign Analysis](campaign-analysis.md)
+   - Campaign strategy, KPI analysis, and A/B testing.
+
+4. [Performance Tracker](performance-tracker.md)
+   - Digital marketing performance measurement.
+
+5. [Customer Journey](customer-journey.md)
+   - Analysis of the customer journey from awareness to retention.
+
+6. [Competitor Analysis Spreadsheet](coffee-shop-competitor-analysis.xlsx)
+   - Spreadsheet containing competitor price research.
+
 ## Project Objectives
 
 1. Identify the target market for a local coffee shop.
