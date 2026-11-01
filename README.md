@@ -121,7 +121,7 @@ The main objective is to understand how pricing strategy, competitor research, a
 
 ## Project Documentation
 
-This repository contains several documents related to the digital marketing project:
+This repository contains the following digital marketing project documents:
 
 1. [Competitor Research](competitor-research.md)
    - Competitor analysis and price comparison.
@@ -136,9 +136,15 @@ This repository contains several documents related to the digital marketing proj
    - Digital marketing performance measurement.
 
 5. [Customer Journey](customer-journey.md)
-   - Analysis of the customer journey from awareness to retention.
+   - Customer journey from awareness to retention.
 
-6. [Competitor Analysis Spreadsheet](coffee-shop-competitor-analysis.xlsx)
+6. [Marketing Funnel Analysis](marketing-funnel-analysis.md)
+   - Conversion rate and marketing funnel analysis.
+
+7. [Customer Feedback Analysis](customer-feedback-analysis.md)
+   - Customer satisfaction measurement and feedback analysis.
+
+8. [Competitor Analysis Spreadsheet](coffee-shop-competitor-analysis.xlsx)
    - Spreadsheet containing competitor price research.
 
 ## Project Objectives
